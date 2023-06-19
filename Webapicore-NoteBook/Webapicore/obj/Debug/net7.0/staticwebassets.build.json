@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "HUm3w/bnhEfCtEiaRxiPe9w46nhkZYPjgJQu8U2XtKw=",
+  "Source": "Webapicore",
+  "BasePath": "_content/Webapicore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Webapicore\\wwwroot",
+      "Source": "Webapicore",
+      "ContentRoot": "F:\\Folder\\Webapicore\\Webapicore\\wwwroot\\",
+      "BasePath": "_content/Webapicore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
